@@ -1,14 +1,14 @@
 ### Task 0
-Linear regression, root-mean-square error, sklearn, pandas
+Linear regression, root-mean-square error
 
 ### Task 1a
-Ridge regression, cross validation, root-mean-square error, sklearn, pandas
+Ridge regression, cross validation (gridsearchcv), root-mean-square error
 
 ### Task 1b
-Linear regression, weights, root-mean-square error, sklearn, pandas, numpy
+Linear regression, weight estimation (coef_), root-mean-square error
 
 ### Task 2
-Random forest classifier/regressor, missing values, sklearn, pandas, numpy
+Random forest classifier/regressor, missing data (simple imputer), pipelines
 
 ### Task 3
-One-hot-encoder, multi-layer-perceptron classifier, transforming data, sklearn, pandas, numpy
+Multi-layer-perceptron classifier, categorical data (one-hot-encoder)
